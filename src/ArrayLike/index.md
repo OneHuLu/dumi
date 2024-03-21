@@ -1,5 +1,9 @@
 ---
 nav:
+  path: /javascript/ArrayLike
+  title: 前端
+group:
+  path: /javascript
   title: JavaScript
 ---
 

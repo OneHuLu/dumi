@@ -1,6 +1,10 @@
 ---
 nav:
-  title: Html+Css
+  path: /htmlcss/CSSInheritance
+  title: 前端
+group:
+  path: /htmlcss
+  title: HTML+CSS
 ---
 
 # CSS 属性中哪些是可以继承的，哪些不可以？
