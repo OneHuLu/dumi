@@ -1,10 +1,5 @@
 ---
-nav:
-  path: /javascript/ArrayLike
-  title: 前端
-group:
-  path: /javascript
-  title: JavaScript
+nav: JavaScript
 ---
 
 # 什么是类数组？如何转换为数组？

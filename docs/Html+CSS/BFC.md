@@ -1,11 +1,7 @@
 ---
-nav:
-  path: /htmlcss/BFC
-  title: 前端
-group:
-  path: /htmlcss
-  title: HTML+CSS
+nav: HTML+CSS
 ---
+
 
 # BFC
 

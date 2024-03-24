@@ -1,10 +1,5 @@
 ---
-nav:
-  path: /htmlcss/Overflow
-  title: 前端
-group:
-  path: /htmlcss
-  title: HTML+CSS
+nav: HTML+CSS
 ---
 
 # Css 溢出如何处理？overflow 值的不同区别
